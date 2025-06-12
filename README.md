@@ -1,5 +1,7 @@
 # RAG AI Voice Assistant
 
+![deepseek_mermaid_20250612_d97af6](https://github.com/user-attachments/assets/8d5a0f75-624d-43cf-807c-86c8d3a17e2d)
+
 ## **Introduction**
 
 A voice-enabled AI assistant for a restaurant ("Adii's Khana Khazana") that:
@@ -12,6 +14,8 @@ A voice-enabled AI assistant for a restaurant ("Adii's Khana Khazana") that:
 - Designed for natural, turn-by-turn conversations (order-taking, FAQs).
 
 ---
+
+![deepseek_mermaid_20250612_2b0abd](https://github.com/user-attachments/assets/f25b1df4-3bb9-495c-8b9e-10194604f32a)
 
 ### **File Structure & Key Components**
 
